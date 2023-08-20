@@ -36,7 +36,14 @@ Add your Open AI key to your new `.env` file so the app can use it.
 OPENAI_API_KEY='your-key-here'
 ```
 
-Finally you're ready, go ahead and start the app by running the following command. 
+Deactivate and reactivate your virtual environment to load the env. 
+```
+deactivate
+source venv/bin/activate
+```
+
+
+Finally, you're ready, go ahead and start the app by running the following command. 
 ```
 flask run
 ```
