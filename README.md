@@ -6,6 +6,11 @@ First, clone the repo to your local computer
 git clone https://github.com/joshbickett/npc-demo-flask-start.git
 ```
 
+Change directory (CD) into the new folder. 
+```
+cd npc-demo-flask-start
+```
+
 Create virtual envirnoment
 ```
 python3 -m venv venv
